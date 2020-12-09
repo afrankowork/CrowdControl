@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scan</string>
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Zero">Zero</string>
+</resources>

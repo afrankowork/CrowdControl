@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="sign_in">Sign in</string>
+    <string name="locations">Locations</string>
+    <string name="srsc">SRSC</string>
+    <string name="kroger">Kroger</string>
+    <string name="wic">WIC</string>
+    <string name="check_in">Check In!</string>
+    <string name="check_in1">Check In!</string>
+</resources>
